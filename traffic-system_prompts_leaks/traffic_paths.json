@@ -2,61 +2,61 @@
   {
     "path": "/asgeirtj/system_prompts_leaks",
     "title": "Overview",
-    "count": 33348,
-    "uniques": 22773
+    "count": 33725,
+    "uniques": 23579
   },
   {
     "path": "/asgeirtj/system_prompts_leaks/blob/main/Anthropic/claude-fable-5.md",
     "title": "/blob/main/Anthropic/claude-fable-5.md",
-    "count": 28160,
-    "uniques": 17623
+    "count": 32578,
+    "uniques": 20490
   },
   {
     "path": "/asgeirtj/system_prompts_leaks/blob/main/Anthropic/claude-design.md",
     "title": "/blob/main/Anthropic/claude-design.md",
-    "count": 14991,
-    "uniques": 11029
+    "count": 13682,
+    "uniques": 9986
   },
   {
     "path": "/asgeirtj/system_prompts_leaks/tree/main/Anthropic",
     "title": "/tree/main/Anthropic",
-    "count": 8891,
-    "uniques": 6477
+    "count": 9274,
+    "uniques": 6935
   },
   {
     "path": "/asgeirtj/system_prompts_leaks/tree/main",
     "title": "/tree/main",
-    "count": 5692,
-    "uniques": 3875
+    "count": 5928,
+    "uniques": 4053
   },
   {
     "path": "/asgeirtj/system_prompts_leaks/blob/main/Google/gemini-3.1-pro.md",
     "title": "/blob/main/Google/gemini-3.1-pro.md",
-    "count": 5226,
-    "uniques": 3559
+    "count": 5326,
+    "uniques": 3661
   },
   {
     "path": "/asgeirtj/system_prompts_leaks/blob/main/Anthropic/claude-opus-4.8.md",
     "title": "/blob/main/Anthropic/claude-opus-4.8.md",
-    "count": 4683,
-    "uniques": 3440
+    "count": 4593,
+    "uniques": 3441
   },
   {
     "path": "/asgeirtj/system_prompts_leaks/blob/main/Google/gemini-3.5-flash.md",
     "title": "/blob/main/Google/gemini-3.5-flash.md",
-    "count": 3288,
-    "uniques": 2306
+    "count": 3208,
+    "uniques": 2287
   },
   {
     "path": "/asgeirtj/system_prompts_leaks/tree/main/Anthropic/Claude Code",
     "title": "/tree/main/Anthropic/Claude Code",
-    "count": 2905,
-    "uniques": 2282
+    "count": 3065,
+    "uniques": 2404
   },
   {
     "path": "/asgeirtj/system_prompts_leaks/blob/main/OpenAI/Codex/gpt-5.5.md",
     "title": "/blob/main/OpenAI/Codex/gpt-5.5.md",
-    "count": 2416,
-    "uniques": 1646
+    "count": 2446,
+    "uniques": 1682
   }
 ]
